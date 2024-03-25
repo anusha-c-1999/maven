@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Jenkins Job triggered by github webhooks</h2>
 </body>
 </html>
